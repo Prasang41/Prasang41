@@ -73,17 +73,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prasang41&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasang41&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🏆 Featured Projects
 
