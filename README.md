@@ -1,130 +1,140 @@
 <h1 align="center">Hi 👋, I'm Prasang Singh</h1>
-
-<h3 align="center">
-Backend Engineer | Java | Spring Boot | Microservices | PostgreSQL | Docker
-</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | PostgreSQL | Docker | AWS</h3>
 
 <p align="center">
-I'm a passionate Backend Engineer who enjoys building scalable, secure, and high-performance applications using Java and Spring Boot. I love solving real-world problems through clean architecture, RESTful APIs, and modern backend technologies.
+  <a href="https://github.com/Prasang41">
+    <img src="https://komarev.com/ghpvc/?username=Prasang41&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasang-singh-9270a92a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasang%20Singh-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://starlit-fudge-756208.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
+  </a>
+
+  <a href="mailto:prasangsingh0041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
-- 💼 Backend Engineer focused on Java & Spring Boot
+- 🎓 B.Tech Computer Science & Engineering (2026)
+- 💼 Java Backend Developer
 - 🌱 Currently learning **Kafka, Redis, Kubernetes & AWS**
-- 🔭 Currently building **MakeItClean** (Smart Waste Management Platform)
-- 💬 Ask me about **Java, Spring Boot, REST APIs, PostgreSQL, Docker**
-- 📫 Email: **prasangsingh0041@gmail.com**
-- ⚡ Goal: Become a Software Engineer building scalable backend systems.
+- 🔭 Working on **MakeItClean** (Smart Waste Management Platform)
+- 💬 Ask me about **Java, Spring Boot, REST APIs, PostgreSQL, Hibernate**
+- 📍 India
+- 📧 prasangsingh0041@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
-- Java
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
 ### Backend
 
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Microservices
-- JWT Authentication
-
-### Databases
-
-- PostgreSQL
-- Redis
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=maven" />
+<img src="https://skillicons.dev/icons?i=hibernate" />
+</p>
 
 ### Cloud & DevOps
 
-- Docker
-- AWS
-- Kubernetes
-- Git
-- GitHub
-- CI/CD
-- Maven
+<p>
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
 
 ### Tools
 
-- IntelliJ IDEA Ultimate
-- VS Code
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📊 GitHub Stats
 
-### 🚀 FreeBirds
+<p align="center">
 
-A Job Marketplace platform developed using Java Spring Boot.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prasang41&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasang41&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+## 🚀 FreeBirds
+
+Job Marketplace Backend built with Java Spring Boot.
 
 ### Features
 
 - JWT Authentication
-- Role-Based Authorization
-- Job Posting System
-- Proposal Management
+- Role Based Authorization
+- Job Posting
+- Proposal System
 - Contract Management
 - Email Notifications
 - File Uploads
-- PostgreSQL Database
-- REST APIs
-- Modular Service Architecture
-
-**Tech Stack**
-
-Java • Spring Boot • Spring Security • Hibernate • PostgreSQL • Spring Mail • REST API
-
----
-
-### 🏨 Book My Hotel Room
-
-Hotel Reservation System built with Spring Boot.
-
-### Features
-
-- Secure Login & Registration
-- Customer & Admin Roles
-- Hotel Room Booking
-- Booking Reference Generation
-- Email Notifications
-- Booking Management
-- PostgreSQL Database
-
-**Tech Stack**
-
-Java • Spring Boot • Spring Security • PostgreSQL • Hibernate
-
----
-
-### 📚 Microservices Quiz App
-
-A scalable quiz platform following Microservices Architecture.
-
-### Features
-
-- Question Service
-- Quiz Service
-- User Management
-- Spring Cloud
-- Docker
-- REST APIs
 - PostgreSQL
+- REST APIs
 
-**Tech Stack**
+**Tech**
 
-Java • Spring Boot • Microservices • Docker • PostgreSQL
+`Java` `Spring Boot` `Spring Security` `Hibernate` `PostgreSQL`
+
+---
+
+## 🏨 Book My Hotel Room
+
+Hotel Reservation Backend.
+
+### Features
+
+- Authentication
+- Customer & Admin Roles
+- Booking Management
+- Email Notifications
+- Booking Reference Generation
+
+---
+
+## 📚 Microservices Quiz App
+
+Microservices architecture using Spring Boot.
+
+### Features
+
+- Spring Cloud
+- REST APIs
+- Docker
+- PostgreSQL
+- User Management
+- Quiz Service
 
 ---
 
@@ -132,89 +142,63 @@ Java • Spring Boot • Microservices • Docker • PostgreSQL
 
 # MakeItClean
 
-A Smart Waste Management Platform.
+Smart Waste Management Platform
 
-Current Progress
+### Progress
 
 - ✅ JWT Authentication
 - ✅ Spring Security
-- ✅ Role Based Access
-- ✅ PostgreSQL Database
+- ✅ User Roles
 - ✅ REST APIs
+- ✅ PostgreSQL
 - 🔄 Complaint Management
-- 🔄 Real-Time Notifications
-- 🔄 Admin Dashboard
-- 🔄 Redis Integration
-- 🔄 Kafka Messaging
-- 🔄 Docker Deployment
+- 🔄 Redis
+- 🔄 Kafka
+- 🔄 Notifications
+- 🔄 Docker
 - 🔄 AWS Deployment
 
 ---
 
-## 💼 Internship
+# 📜 Certifications
 
-### Java Full Stack Developer
-
-**Zidio Development**
-
-- Developed REST APIs using Spring Boot
-- Integrated frontend with backend APIs
-- Worked with PostgreSQL
-- Built React components
-- Improved debugging and problem-solving skills
-
----
-
-## 🎯 Current Focus
-
-- Backend Development
-- System Design
-- Microservices
-- Redis
-- Kafka
-- Docker
-- Kubernetes
-- AWS
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasang41&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasang41&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Prasang41&theme=tokyonight)
-
----
-
-## 🏆 Certifications
-
-- Java Spring Framework 6 With Spring Boot 3 (Udemy)
+- Java Spring Framework 6 with Spring Boot 3 (Udemy)
 - Saviynt Identity Security For AI Age
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 2026 Goals
 
-📧 Email
+- Learn Advanced System Design
+- Master Kafka & Redis
+- Build Production Ready Microservices
+- Deploy Applications on AWS
+- Crack a Software Engineer Role
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
 
 prasangsingh0041@gmail.com
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/prasang-singh-9270a92a9/
 
-🌐 Portfolio
+🌐 **Portfolio**
 
 https://starlit-fudge-756208.netlify.app/
 
-🐙 GitHub
+🐙 **GitHub**
 
 https://github.com/Prasang41
 
 ---
 
-### 💡 Quote
+<p align="center">
 
-> "Great software is built through consistency, curiosity, and continuous learning."
+### ⭐ If you like my work, consider giving a star to my repositories!
 
-⭐ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
+</p>
