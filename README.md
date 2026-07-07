@@ -249,24 +249,6 @@ Smart Waste Management Platform
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prasang41&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasang41&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasang41&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
